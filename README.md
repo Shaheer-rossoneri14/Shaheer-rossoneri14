@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Android Development using <a href="https://kotlinlang.org/" target="_blank">
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   </a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shaheer-rossoneri14&label=Profile%20views&color=0e75b6&style=plastic" alt="Shaheer Hasan" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-rossoneri14&theme=algolia" alt="Shaheer-rossoneri14"  /></p>
@@ -84,10 +83,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shaheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaheer-rossoner14&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shaheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaheer-rossoneri14&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaheer-rossoner14&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaheer-rossoneri14&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -105,7 +104,7 @@
 
 <hr/>
 * Last Edited on: 21/08/2021
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaheer-rossoneri14&label=Profile%20views&color=0e75b6&style=plastic" alt="Shaheer Hasan" /> </p>
 
 
 
