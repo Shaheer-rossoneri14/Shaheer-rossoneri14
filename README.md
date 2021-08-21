@@ -6,11 +6,8 @@
 <hr/>
 <h4 align="center">I am a 2nd Year student at CMR Institute of Technlogy pursuing B.E. in Information Science and Engineering. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and gaining knowledge and spreading positivity.</h4>
 <br>
-<p>Want to expand in the domain of Web Development with growth-oriented organization where I can utilize my knowledge by seeking proper opportunities.I am looking forward to collab on Django Projects.</p>
-<p>I am currently learning Android Development</p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-rossoneri14&theme=algolia" alt="Shaheer-rossoneri14"  /></p>
+<p align="center">Want to work in the domain of Web Development with growth-oriented organization where I can utilize my knowledge by seeking proper opportunities.I am looking forward to collab on Django Projects.</p>
+<p align="center">I am currently learning Android Development</p>
 
 
 ## 🛠️ My Skills
