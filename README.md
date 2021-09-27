@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;|Backend+Developer;|Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a 3rd Year student at CMR Institute of Technlogy pursuing B.E. in Information Science and Engineering. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and gaining knowledge and spreading positivity.</h4>
+<h4 align="center">I am a 3rd Year student at CMR Institute of Technlogy pursuing B.E. in Information Science and Engineering. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, gaining knowledge and spreading positivity.</h4>
 <br>
 <p align="center">Want to work in the domain of Web Development with growth-oriented organization where I can utilize my knowledge by seeking proper opportunities.I am looking forward to collab on Django Projects.</p>
 <p align="center">I am currently learning Django Rest Framework</p>
