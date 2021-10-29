@@ -1,9 +1,13 @@
 
 <h1 align="center">Hi , I'm Shaheer Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">I am a 3rd Year student at CMR Institute of Technlogy pursuing B.E. in Information Science and Engineering. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, gaining knowledge and spreading positivity.</h4>
+<h4 align="center">Pre-final year Information Science and Engineering undergraduate at
+CMR Institute of Technology with a keen interest in Backend
+Development. Self-learning and motivated person who would like to work
+with passionate and experienced people on software products that shape
+consumer lives either directly or by better enabling other businesses to do
+the same.</h4>
 <br>
-<p align="center">Want to work in the domain of Web Development with growth-oriented organization where I can utilize my knowledge by seeking proper opportunities.</p>
 <p align="center">I am currently learning Android App Development</p>
 
 
