@@ -65,10 +65,11 @@ the same.</h4>
 	<a href="mailto:hshaheer99@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Shaheer-rossoner14"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shaheer14hasan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://shaheer-rossoneri14.github.io"><button>My Website</button>
 </p>
 
 <hr/>
-* Last Edited on: 14/10/2021
+* Last Edited on: 29/04/2022
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaheer-rossoneri14&label=Profile%20views&color=0e75b6&style=plastic" alt="Shaheer Hasan" /> </p>
 
 
