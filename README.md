@@ -65,7 +65,7 @@ the same.</h4>
 	<a href="mailto:hshaheer99@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Shaheer-rossoner14"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shaheer14hasan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://shaheer-rossoneri14.github.io"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Flogo-websites&psig=AOvVaw3Lp9i_ylTAOJi0anTuyteR&ust=1651254107976000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCg6Iant_cCFQAAAAAdAAAAABAD" alt="My Website"/></a>
+	<a href="https://shaheer-rossoneri14.github.io"><img src="https://img.icons8.com/bubbles/344/domain.png" alt="My Website"/></a>
 </p>
 
 <hr/>
