@@ -9,6 +9,7 @@ consumer lives either directly or by better enabling other businesses to do
 the same.</h4>
 <br>
 <p align="center">I am currently learning Android App Development</p>
+<a href="https://shaheer-rossoneri14.github.io">My Website</a>
 
 
 ## 🛠️ My Skills
@@ -65,8 +66,6 @@ the same.</h4>
 	<a href="mailto:hshaheer99@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Shaheer-rossoner14"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shaheer14hasan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://shaheer-rossoneri14.github.io"><img src="https://github.com/Shaheer-rossoneri14/Shaheer-rossoneri14/blob/main/download.png" alt="My Website"/></a>
-</p>
 
 <hr/>
 * Last Edited on: 29/04/2022
