@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Shaheer Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">Pre-final year Information Science and Engineering undergraduate at
+<h4 align="center">Final year Information Science and Engineering undergraduate at
 CMR Institute of Technology with a keen interest in Backend
 Development. Self-learning and motivated person who would like to work
 with passionate and experienced people on software products that shape
@@ -66,7 +66,7 @@ the same.</h4>
 	<a href="https://www.linkedin.com/in/shaheer14hasan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
 <hr/>
-* Last Edited on: 29/04/2022
+* Last Edited on: 23/08/2022
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaheer-rossoneri14&label=Profile%20views&color=0e75b6&style=plastic" alt="Shaheer Hasan" /> </p>
 
 
