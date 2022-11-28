@@ -8,7 +8,7 @@ with passionate and experienced people on software products that shape
 consumer lives either directly or by better enabling other businesses to do
 the same.</h4>
 <br>
-<p align="center">I am currently learning Android App Development</p>
+
 <p align="center"><a href="https://shaheer-rossoneri14.github.io">My Website</a></p>
 
 
