@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Shaheer Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">As a final year Information Science and Engineering undergraduate at CMR Institute of Technology, I bring a strong passion for backend development and a keen interest in contributing to the creation of software products that have a real impact on people's lives. I am a self-motivated and self-learning individual with a drive to continuously improve and enhance my technical skills. I am eager to work with a team of experienced and passionate professionals to build innovative software solutions that make a difference in the world. My goal is to be a valuable member of a dynamic and cutting-edge organization where I can grow as a professional and make a meaningful contribution to the success of the company.</h4>
+<h4 align="center">As a recent graduate with a degree in Information Science and Engineering from CMR Institute of Technology, I possess a strong passion for backend development and a keen interest in making a positive impact through software product creation. I am a self-motivated individual who is always eager to learn and enhance my technical skills. Collaborating with experienced and passionate professionals to build innovative software solutions that make a difference in the world is what excites me. I aspire to be a valuable member of a dynamic and cutting-edge organization, where I can continue to grow professionally and contribute meaningfully to the company's success.</h4>
 <br>
 
 <p align="center"><a href="https://shaheer-rossoneri14.github.io">My Website</a></p>
