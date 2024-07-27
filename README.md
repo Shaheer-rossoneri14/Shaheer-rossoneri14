@@ -16,7 +16,7 @@ I'm known for being a quick learner, a team player, and someone who approaches p
   &emsp;
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=typescript"></a>
+  <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-grey?style=for-the-badge&logo=typescript"></a>
   &emsp;
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp; 
