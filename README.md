@@ -1,10 +1,13 @@
 
 <h1 align="center">Hi , I'm Shaheer Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">As a recent graduate with a degree in Information Science and Engineering from CMR Institute of Technology, I possess a strong passion for backend development and a keen interest in making a positive impact through software product creation. I am a self-motivated individual who is always eager to learn and enhance my technical skills. Collaborating with experienced and passionate professionals to build innovative software solutions that make a difference in the world is what excites me. I aspire to be a valuable member of a dynamic and cutting-edge organization, where I can continue to grow professionally and contribute meaningfully to the company's success.</h4>
+<h4 align="center"Hello there! I'm Shaheer, a Software Engineer, currently working as an Associate Technology L1 at Publicis Sapient. I have a passion for building applications that make people's lives easier.
+
+I'm known for being a quick learner, a team player, and someone who approaches problem-solving with great attention to detail. At Publicis Sapient, I’m deeply involved in fintech projects, constantly gaining hands-on experience and refining my skills.
+</h4>
 <br>
 
-<p align="center"><a href="https://portfolio-shaheer-hasan.vercel.app">My Website</a></p>
+<p align="center"><a href="https://portfolio-shaheer-hasan.vercel.app">My Portfolio Website</a></p>
 
 
 ## 🛠️ My Skills
@@ -13,7 +16,9 @@
   &emsp;
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=typescript"></a>
+  &emsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp; 
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>   
   &emsp;
@@ -28,6 +33,7 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+ 
 	
 </p>
 
